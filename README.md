@@ -1,6 +1,7 @@
 ## App Description
 
-This is a small web application where you can log in using reddit credentials and see data related to you such as: profile picture, number of friends etc. On subreddits page, you can see what subreddits you are subscribed to and select some in order to save them.
+This is a small web application where you can log in using reddit credentials and see data related to you such as: profile picture, number of friends etc. 
+On subreddits page, you can see what subreddits you are subscribed to and select some in order to save them as JSON file.
 
 ## Setup
 
@@ -12,7 +13,7 @@ REACT_APP_CLIENT_SECRET={SECRET_OF_THE_APP_YOU_CREATED}<br/>
 REACT_APP_BASE_URL=https://localhost:3000<br/>
 HTTPS=true<br/>
 
-Or you can skip this and ask the developer to add you on existing one. Contact email: "fatih.zukorlic@gmail.com".
+Or you can skip this and ask the developer to add you to an existing one. Contact email: "fatih.zukorlic@gmail.com".
 
 ## Launching the app
 
